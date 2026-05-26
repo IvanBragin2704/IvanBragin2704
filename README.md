@@ -19,7 +19,7 @@ I'm a backend developer at **EMK** and a student at **Saratov State University**
 
 - 🔭 I’m currently working on backend development at EMK
 - 🌱 I’m deepening my knowledge in web frameworks and databases
-- 📫 How to reach me: [add your email or social links if you want]
+- 📫 How to reach me: i.am.bragin@gmail.com
 - ⚡ Fun fact: I'm balancing university studies with a full-time dev job
 
 ---
