@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Ivan
 
-<!--
-**IvanBragin2704/IvanBragin2704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer at **EMK** and a student at **Saratov State University**, majoring in Fundamental Informatics and Information Technology.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**
+- C++
+- C#
+- Python
+
+**Current stack:**
+- SQLite
+- PostgreSQL
+- FastAPI
+- Django
+
+## 🚀 About me
+
+- 🔭 I’m currently working on backend development at EMK
+- 🌱 I’m deepening my knowledge in web frameworks and databases
+- 📫 How to reach me: [add your email or social links if you want]
+- ⚡ Fun fact: I'm balancing university studies with a full-time dev job
+
+---
+
+Thanks for stopping by! 😊
